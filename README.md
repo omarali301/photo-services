@@ -1,5 +1,4 @@
 ## site link : https://photoservices-3bf46.web.app/
 
-## সার্ভিস আর রেভিউকে ডায়নামিক করাসহ ইউসার অর্ডার লিস্ট এবং ইউসার পেমেন্ট, রিভিউ সহো অ্যাডমিন অর্ডার লিস্ট , অ্যাডমিন অ্যাড সার্ভিস ,অ্যাড অ্যাডমিন ইত্যাদি most done কিন্তু আমার একটু কন্ডিশন এ প্রব্লেম থাকায় ইমেইল এর সাথে ফিল্টার করে ইউসার কে ইউসার এর অর্ডার আর অ্যাডমিন কে অ্যাডমিন এর অর্ডার দেখানো করতে পারি নাই। নিজে যতটুকু বুঝছি ততটুকু করার ট্রাই করছি 
 
-## কিন্তু Link to ব্যবহার করলে ডাটা Mongodb তে যাচ্ছিলো না তাই navbar এ userlist ও admin a adminlist অ্যাড করে দিয়েছি। 
+## I have did it dinamic orderlist user loging and make payment and add admin  orderlist by Html , Css React.js node.js mongodb 
